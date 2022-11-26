@@ -1,1 +1,3 @@
-echo "welcome"
+echo "welcome";
+print ("welcome");
+
